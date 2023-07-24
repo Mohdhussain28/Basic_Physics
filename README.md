@@ -9,4 +9,4 @@ It's free to use under the GNU General Public License v3.0.
 <br>The math is rendered with the typesetting library <a href="https://katex.org/">KaTeX</a>.
 <br>The simulations are JavaScript outputting to canvas or SVG.
 <br>Collision simulations use the <a href="http://brm.io/matter-js/">Matter.js</a> 2-D physics engine.
-# Special to <a herf="https://github.com/landgreen"> Mr Greenland</a> for his work!!!
+# Special to <a href="https://github.com/landgreen"> Mr Greenland</a> for his work!!!
